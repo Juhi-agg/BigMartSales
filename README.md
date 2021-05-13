@@ -1,3 +1,3 @@
 # BigMartSales
 
-A self project was taken from the Analytics Vidya Hackathon
+A self project was taken from the Analytics Vidya Hackathon. 
